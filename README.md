@@ -1,3 +1,5 @@
+![abstract](./abstract_graph.jpg)
+
 # 💫 About Me:
 Data Analyst / Data Scientist with 8+ years of development and research experience in industry and academy during my MA and PhD. Strong knowledge of SQL, Python, and data analysis. Honest, responsible, driven, fluent Russian and English proficiency, honed by years of teaching and research.
 
