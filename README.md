@@ -1,9 +1,17 @@
 ![abstract](./abstract_graph.jpg)
 
 # 💫 About Me:
-Data Analyst / Data Scientist with 8+ years of development and research experience in industry and academy during my MA and PhD. Strong knowledge of SQL, Python, and data analysis. Honest, responsible, driven, fluent Russian and English proficiency, honed by years of teaching and research.
+[**Curriculum Vitae**](./cv_pavel_valov_data_analyst_english.pdf)
 
-Аналитик данных / Ученый по данным с 8+ годами опыта разработки и исследований в индустрии и академии в ходе MA и PhD. Уверенное владение SQL, Python, анализом данных. Честный, ответственный, целеустремленный, свободное владение английским, отточенное годами преподавания и исследований.
+Data Analyst / Data Scientist with experience in development, research, and analytics both in industry and academy.
+Strong knowledge of SQL, Python, and data analysis.
+Honest, responsible, driven, fluent Russian and English proficiency, honed by years of teaching and research.
+
+[**Резюме**](./cv_pavel_valov_data_analyst_russian.pdf)
+
+Аналитик данных / Ученый по данным с опытом разработки, исследований и аналитики в индустрии и академии.
+Уверенное владение SQL, Python, анализом данных.
+Честный, ответственный, целеустремленный, свободное владение английским, отточенное годами преподавания и исследований.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavel-valov) 
