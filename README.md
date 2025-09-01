@@ -23,6 +23,10 @@ Honest, responsible, driven, fluent Russian and English proficiency, honed by ye
 
 ## Publications
 
+- Empirical Comparison of Regression Methods for Variability-Aware Performance Prediction
+    - [Repository](https://github.com/valovpm/splc2015)
+    - [Paper](https://dl.acm.org/doi/abs/10.1145/2791060.2791069)
+
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavel-valov) -->
