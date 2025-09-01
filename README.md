@@ -22,9 +22,19 @@ Honest, responsible, driven, fluent Russian and English proficiency, honed by ye
 ## Bootcamps
 
 ## Publications
-
+- Transferring Pareto Frontiers across Heterogeneous Hardware Environments
+    - Designed and published a machine learning approach for approximating and transferring Pareto frontiers of systems' properties across different cloud environments, using Python ecosystem (pandas, scikit-learn, matplotlib)
+    - [Repository](https://github.com/valovpm/icpe2020?tab=readme-ov-file#transferring-pareto-frontiers-across-heterogeneous-hardware-environments)
+    - [Paper](https://research.spec.org/icpe_proceedings/2020/proceedings/p12.pdf)
+    - [Video](https://www.youtube.com/watch?v=fB3WO3q4uLQ)
+    - [Slides](https://icpe2020.spec.org/slides/Valov_Transferring.pdf)
+- Transferring Performance Prediction Models Across Different Hardware Platforms
+    - Designed and published a machine learning approach for generalizing performance prediction models of configurable systems across different hardware platforms, extensively using R (tidyr, dplyr, reshape2, ggplot2, etc)
+    - [Repository](https://github.com/valovpm/icpe2017?tab=readme-ov-file#transferring-performance-prediction-models-across-different-hardware-platforms)
+    - [Paper](https://research.spec.org/icpe_proceedings/2017/proceedings/p39.pdf)
 - Empirical Comparison of Regression Methods for Variability-Aware Performance Prediction
-    - [Repository](https://github.com/valovpm/splc2015)
+    - Designed and published a machine learning study on comparison of various performance prediction methods, while extensively using R ecosystem (tidyr, dplyr, reshape2, ggplot2, etc)
+    - [Repository](https://github.com/valovpm/splc2015?tab=readme-ov-file#empirical-comparison-of-regression-methods-for-variability-aware-performance-prediction)
     - [Paper](https://dl.acm.org/doi/abs/10.1145/2791060.2791069)
 
 
