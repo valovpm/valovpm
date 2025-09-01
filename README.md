@@ -22,7 +22,13 @@ Honest, responsible, driven, fluent Russian and English proficiency, honed by ye
 ## Professional development
 
 ### Advanced AB-testing
-- 
+- Analyzed parallel A/B tests, estimated sample size, empirical errors, confidence intervals, and performed error correction using Holm’s method ([Jupyter Notebook 1](https://github.com/valovpm/ab_testing_advanced/blob/main/chapter_10_problem_02.ipynb), [Jupyter Notebook 2](https://github.com/valovpm/ab_testing_advanced/blob/main/chapter_10_problem_03.ipynb))
+- Analyzed how CUPED reduces variance in data and how it affects the p-value ([Jupyter Notebook](https://github.com/valovpm/ab_testing_advanced/blob/main/chapter_09_problem_02.ipynb))
+- Analyzed how removing different percentages of outliers affects statistical power ([Jupyter Notebook](https://github.com/valovpm/ab_testing_advanced/blob/main/chapter_06_problem_03.ipynb))
+- Analyzed how removing different percentages of outliers affects sensitivity ([Jupyter Notebook](https://github.com/valovpm/ab_testing_advanced/blob/main/chapter_06_problem_02.ipynb))
+- Analyzed different methods of calculating confidence intervals ([Jupyter Notebook 1](https://github.com/valovpm/ab_testing_advanced/blob/main/chapter_05_problem_02.ipynb), [Jupyter Notebook 2](https://github.com/valovpm/ab_testing_advanced/blob/main/chapter_05_problem_03.ipynb))
+- Compared methods of introducing effects in synthetic A/B tests ([Jupyter Notebook 1](https://github.com/valovpm/ab_testing_advanced/blob/main/chapter_04_problem_05.ipynb), [Jupyter Notebook 2](https://github.com/valovpm/ab_testing_advanced/blob/main/chapter_04_problem_06.ipynb))
+- Calculated experimental group sizes and MDE for A/B tests ([Jupyter Notebook 1](https://github.com/valovpm/ab_testing_advanced/blob/main/chapter_03_problem_03.ipynb), [Jupyter Notebook 2](https://github.com/valovpm/ab_testing_advanced/blob/main/chapter_03_problem_05.ipynb))
 
 ### Data Analyst
 - Analyzed novel newsfeed recommendation algorithm, designed to improve the key metric (CTR)
@@ -36,7 +42,7 @@ Honest, responsible, driven, fluent Russian and English proficiency, honed by ye
     - Pipeline for sending a report to ClickHouse about the basic product metrics in different slices ([Graph in Python](https://github.com/valovpm/newsfeed_airflow/blob/main/airflow_clickhouse.py))
 - Dashboards for visualization and analysis of key metrics using Apache Superset, ClickHouse, SQL ([Dashboards](https://github.com/valovpm/newsfeed_dashboards))
     - Dashboard for analyzing the abnormal drop in the active audience of the newsfeed ([Dashboard](https://github.com/valovpm/newsfeed_dashboards#dashboard_01))
-    - Dashboard for analyzing differences in the behavior of `organic' and `advertising' users ([Dashboard](https://github.com/valovpm/newsfeed_dashboards#dashboard_02))
+    - Dashboard for analyzing differences in the behavior of organic and advertising users ([Dashboard](https://github.com/valovpm/newsfeed_dashboards#dashboard_02))
     - Dashboard for analyzing basic product metrics of the newsfeed (likes, view, CTR, etc.) ([Dashboard](https://github.com/valovpm/newsfeed_dashboards#dashboard_03))
     - Dashboard for analyzing audience metrics of several products (DAU, MAU, WAU, etc.) ([Dashboard](https://github.com/valovpm/newsfeed_dashboards#dashboard_04))
 
