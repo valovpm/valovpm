@@ -20,8 +20,11 @@ Honest, responsible, driven, fluent Russian and English proficiency, honed by ye
 # Repositories
 
 ## Professional development
-- Advanced AB-testing
-- Data Analyst
+
+### Advanced AB-testing
+- 
+
+### Data Analyst
     - Analyzed novel newsfeed recommendation algorithm, designed to improve the key metric (CTR)
     - Performed A/B testing to demonstrate CTR deterioration with a new recommendation algorithm using: transformations of the initial data (Laplace smoothing, Poisson bootstrap, bucket transformation), normality criterias (Shapiro-Wilk, D'Agostino), distribution difference criterias (Student's T-test, Mann-Whitney U-test), SQL, ClickHouse, Python, pandas, matplotlib ([Jupyter Notebook](https://github.com/valovpm/newsfeed_ab_testing/blob/main/newsfeed_ab_test.ipynb))
     - Demonstration of increasing of a key metric sensitivity using the linearization method ([Jupyter Notebook](https://github.com/valovpm/newsfeed_ab_testing/blob/main/newsfeed_linearization.ipynb))
@@ -32,10 +35,10 @@ Honest, responsible, driven, fluent Russian and English proficiency, honed by ye
         - Pipeline of a report to Telegram on basic product metrics (DAU, views, likes, CTR) ([Graph in Python](https://github.com/valovpm/newsfeed_airflow/blob/main/airflow_newsfeed_telegram.py))
         - Pipeline for sending a report to ClickHouse about the basic product metrics in different slices ([Graph in Python](https://github.com/valovpm/newsfeed_airflow/blob/main/airflow_clickhouse.py))
     - Dashboards for visualization and analysis of key metrics using Apache Superset, ClickHouse, SQL ([Dashboards](https://github.com/valovpm/newsfeed_dashboards))
-        - Dashboard for analyzing the abnormal drop in the active audience of the newsfeed ([Dashboard](https://github.com/valovpm/newsfeed_dashboards#dashboard_01)
-        - Dashboard for analyzing differences in the behavior of `organic' and `advertising' users ([Dashboard](https://github.com/valovpm/newsfeed_dashboards#dashboard_02)
-        - Dashboard for analyzing basic product metrics of the newsfeed (likes, view, CTR, etc.) ([Dashboard](https://github.com/valovpm/newsfeed_dashboards#dashboard_03)
-        - Dashboard for analyzing audience metrics of several products (DAU, MAU, WAU, etc.) ([Dashboard](https://github.com/valovpm/newsfeed_dashboards#dashboard_04)
+        - Dashboard for analyzing the abnormal drop in the active audience of the newsfeed ([Dashboard](https://github.com/valovpm/newsfeed_dashboards#dashboard_01))
+        - Dashboard for analyzing differences in the behavior of `organic' and `advertising' users ([Dashboard](https://github.com/valovpm/newsfeed_dashboards#dashboard_02))
+        - Dashboard for analyzing basic product metrics of the newsfeed (likes, view, CTR, etc.) ([Dashboard](https://github.com/valovpm/newsfeed_dashboards#dashboard_03))
+        - Dashboard for analyzing audience metrics of several products (DAU, MAU, WAU, etc.) ([Dashboard](https://github.com/valovpm/newsfeed_dashboards#dashboard_04))
 
 ## Publications
 - Transferring Pareto Frontiers across Heterogeneous Hardware Environments
