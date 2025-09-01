@@ -1,11 +1,12 @@
 <!-- ![abstract](./abstract_graph.jpg) -->
 
 # Table of Contents
-- [About Me](#about-me)
+- [Curriculum Vitae](#curriculum-vitae)
 - [Tech Stack](#tech-stack)
 
-# About Me
-[**Curriculum Vitae**](./cv_pavel_valov_data_analyst_english.pdf)
+# Curriculum Vitae
+[**Curriculum Vitae in English**](./cv_pavel_valov_data_analyst_english.pdf)
+[**Curriculum Vitae in Russian**](./cv_pavel_valov_data_analyst_russian.pdf)
 
 Data Analyst / Data Scientist with experience in development, research, and analytics both in industry and academy.
 Strong knowledge of SQL, Python, and data analysis.
@@ -15,8 +16,6 @@ Honest, responsible, driven, fluent Russian and English proficiency, honed by ye
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavel-valov) -->
 
 <!-- # Обо мне:
-[**Резюме**](./cv_pavel_valov_data_analyst_russian.pdf)
-
 Аналитик данных / Ученый по данным с опытом разработки, исследований и аналитики в индустрии и академии.
 Уверенное владение SQL, Python, анализом данных.
 Честный, ответственный, целеустремленный, свободное владение английским, отточенное годами преподавания и исследований. -->
