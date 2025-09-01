@@ -5,7 +5,9 @@
 - [Tech Stack](#tech-stack)
 
 # Curriculum Vitae
+
 [**Curriculum Vitae in English**](./cv_pavel_valov_data_analyst_english.pdf)
+
 [**Curriculum Vitae in Russian**](./cv_pavel_valov_data_analyst_russian.pdf)
 
 Data Analyst / Data Scientist with experience in development, research, and analytics both in industry and academy.
