@@ -3,6 +3,9 @@
 # Table of Contents
 - [Curriculum Vitae](#curriculum-vitae)
 - [Tech Stack](#tech-stack)
+- [Repositories](#repositories)
+- [Bootcamps](#bootcamps)
+- [Publications](#publications)
 
 # Curriculum Vitae
 
@@ -13,6 +16,13 @@
 Data Analyst / Data Scientist with experience in development, research, and analytics both in industry and academy.
 Strong knowledge of SQL, Python, and data analysis.
 Honest, responsible, driven, fluent Russian and English proficiency, honed by years of teaching and research.
+
+# Repositories
+
+## Bootcamps
+
+## Publications
+
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavel-valov) -->
