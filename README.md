@@ -4,7 +4,7 @@
 - [Curriculum Vitae](#curriculum-vitae)
 - [Tech Stack](#tech-stack)
 - [Repositories](#repositories)
-- [Bootcamps](#bootcamps)
+- [Professional Development](#professional-development)
 - [Publications](#publications)
 
 # Curriculum Vitae
