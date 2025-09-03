@@ -2,10 +2,10 @@
 
 # Table of Contents
 - [Curriculum Vitae](#curriculum-vitae)
-- [Tech Stack](#tech-stack)
 - [Repositories](#repositories)
 - [Professional Development](#professional-development)
 - [Publications](#publications)
+- [Tech Stack](#tech-stack)
 
 # Curriculum Vitae
 
